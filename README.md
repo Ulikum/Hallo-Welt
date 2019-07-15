@@ -1,2 +1,2 @@
 # Hallo-Welt
-mein erstes Repos
+mein erstes Repository
